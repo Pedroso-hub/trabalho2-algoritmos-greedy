@@ -1,5 +1,4 @@
 def escolher_paradas(L, d, pontos):
-    pontos.sort()
     pontos = [0] + pontos + [L]
 
     paradas = []
