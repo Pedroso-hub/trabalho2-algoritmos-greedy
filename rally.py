@@ -53,4 +53,5 @@ def main():
             print("Pontos escolhidos para acampar:", *resposta)
 
 
-main()
+if __name__ == "__main__":
+    main()
